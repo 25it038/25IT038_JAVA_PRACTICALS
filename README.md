@@ -38,8 +38,4 @@ java -cp out minibank.MiniBank
 - ConcurrentHashMap-based repository
 - Switch expressions and lambda expressions
 
-## Data files
-The application creates `data/accounts.dat` and `data/transactions.txt` when saving.
 
-## Notes
-This is an educational console project, not a real banking system. It does not connect to real bank services.
